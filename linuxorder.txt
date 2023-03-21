@@ -42,6 +42,8 @@ chmod
 
 #提升權限
 su
-sudo
+sudo 
+ 
+1
 
 
